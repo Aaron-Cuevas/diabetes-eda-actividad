@@ -1,0 +1,6 @@
+
+# No subir backups
+auto_save/
+*.backup.*.ipynb
+*.bak.*.ipynb
+backups_ipynb/
